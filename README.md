@@ -50,10 +50,3 @@ Windows
 
 PNG and JPG album covers
 
-
-
-##### COMPRESSION PROCESS
-
-1. Creates all images at runtime
-2. Uses minimal and smallest external libraries
-3. Compress in UPX (compresses the executable and adds a small decompressor)
