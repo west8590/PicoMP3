@@ -46,7 +46,6 @@
 
 ##### CURRENTLY SUPPORTS
 
-Windows
-
-PNG and JPG album covers
+* Windows
+* PNG and JPG album covers
 
